@@ -1,0 +1,1 @@
+Adding product and it's information and delete it from local storage with js.

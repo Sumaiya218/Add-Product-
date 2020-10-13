@@ -1,0 +1,15 @@
+body{
+    font-family: 'segoe ui light';
+}
+.product{
+    position: relative;
+}
+.price{
+    position: absolute;
+    background-color: tomato;
+    top: 0;
+    right: 30px;
+    font-weight: 600;
+    padding: 10px;
+    color: #fff;
+}
